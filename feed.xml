@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Panoramic Nuggets</title>
+    <link>https://panoramicnuggets.com/</link>
+    <atom:link href="https://panoramicnuggets.com/podcast.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <copyright>© 2026 Panoramic Nuggets</copyright>
+    <description>One idea and one small action at a time, on life, money and health. Every week, the seven daily nuggets from the Panoramic Nuggets channel in one short episode. Transforming knowledge into action. Narrated in the creator's own voice, recreated with AI.</description>
+    <itunes:author>Panoramic Nuggets</itunes:author>
+    <itunes:owner><itunes:name>Panoramic Nuggets</itunes:name><itunes:email>hello@panoramicnuggets.com</itunes:email></itunes:owner>
+    <itunes:image href="https://panoramicnuggets.com/podcast-cover.jpg"/>
+    <image><url>https://panoramicnuggets.com/podcast-cover.jpg</url><title>Panoramic Nuggets</title><link>https://panoramicnuggets.com/</link></image>
+    <itunes:category text="Education"><itunes:category text="Self-Improvement"/></itunes:category>
+    <itunes:category text="Business"><itunes:category text="Entrepreneurship"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Trailer: One Nugget a Day, Starting November 1</title>
+      <description><![CDATA[<p>What Panoramic Nuggets is: one idea and one small action at a time, on life, money and health.</p><p>Daily videos start November 1 on YouTube, Instagram and Facebook. Weekly podcast episodes start November 8. More at <a href="https://panoramicnuggets.com/">panoramicnuggets.com</a>. Narrated in the creator's own voice, recreated with AI.</p>]]></description>
+      <itunes:summary>What Panoramic Nuggets is: one idea and one small action at a time, on life, money and health. Daily videos start November 1; weekly podcast episodes start November 8.</itunes:summary>
+      <enclosure url="https://panoramicnuggets.github.io/podcast/episodes/panoramic-nuggets-trailer.mp3" length="656136" type="audio/mpeg"/>
+      <guid isPermaLink="false">panoramic-nuggets-trailer</guid>
+      <pubDate>Wed, 21 Oct 2026 22:00:00 GMT</pubDate>
+      <itunes:duration>00:00:55</itunes:duration>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
